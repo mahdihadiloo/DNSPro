@@ -474,3 +474,9 @@ onshape.com
 day.ir
 search.google.com
 pagespeed.web.dev
+aistudio.google.com
+notebooklm.google.com
+labs.google
+gemini.google.com
+gtmetrix.com
+generativelanguage.googleapis.com
